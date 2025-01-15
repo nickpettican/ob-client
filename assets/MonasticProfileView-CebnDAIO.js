@@ -1,0 +1,1 @@
+import{_ as o,c as s,e as t,o as a}from"./index-DnI3NASo.js";const c={},n={class:"about"};function r(i,e){return a(),s("div",n,e[0]||(e[0]=[t("h1",null,"This is a monastic profile",-1)]))}const _=o(c,[["render",r]]);export{_ as default};

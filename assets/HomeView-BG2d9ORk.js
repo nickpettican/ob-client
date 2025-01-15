@@ -1,0 +1,1 @@
+import{_ as o,c as s,e as t,o as c}from"./index-DnI3NASo.js";const n={},r={class:"about"};function a(_,e){return c(),s("div",r,e[0]||(e[0]=[t("h1",null,"This is home",-1)]))}const l=o(n,[["render",a]]);export{l as default};

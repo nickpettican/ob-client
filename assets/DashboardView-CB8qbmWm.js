@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as r,k as e}from"./index-Ce8F43-A.js";const a={},l={class:"about"};function n(c,s){return r(),o("div",l,s[0]||(s[0]=[e("h1",null,"Here we will see stats",-1),e("p",null,"Server health",-1),e("p",null,"Activity stats",-1),e("p",null,"Number of Monastics",-1),e("p",null,"Number of Patrons",-1)]))}const i=t(a,[["render",n]]);export{i as default};
